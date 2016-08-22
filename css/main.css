@@ -1,0 +1,38 @@
+.im{
+	width: 100%;
+	margin-bottom: 2%;
+}
+hr{
+	width: 100%;
+}
+iframe{
+	width:100%; 
+	/* height:315px; */
+}
+.gris{
+	background-color: #D4D5DB;
+}
+#caja{
+	padding: 3%;
+	margin-top: 5%;
+}
+.cuadro{
+	background-color: #8B8585;
+	/* padding-top: 1%;
+	width: 23%; */
+	margin-top: 3%;
+}
+.espacio{
+	margin-top: 2%;
+}
+#negro{
+	background-color: #080808;
+	color: white;
+	padding-left: 2%;
+	padding-right: 2%;
+}
+.botgri{
+	background-color: #ABA8A8;
+	padding-left: 4%;
+	padding-right: 4%;
+}
